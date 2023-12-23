@@ -1,0 +1,24 @@
+#quote{
+    font-size: 1.5rem;
+    height: 5rem;
+}
+#history{
+    color: grey;
+}
+button{
+    background-color: aqua;
+    border-radius: 0.5rem;
+    font-weight: bold;
+    padding: 0.5rem;
+}
+
+.wrap{
+    padding: 1rem;
+    margin: 0 auto;
+    border-radius: 0.5rem;
+    width: 35rem;
+}
+#history div {
+    background-color: goldenrod;
+    border-radius: 0.5rem;
+}
